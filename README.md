@@ -10,4 +10,4 @@ Me chamo Leonardo e sou um iniciante curioso no mundo da programação 😅
 - 🌱 Estou me aprofundando em JavaScript, PHP e tecnologias vinculadas a essas linguagens
 - 📫 Fale comigo através do endereço eletrônico leoklen203@gmail.com ou pelo telefone / whatsapp (44) 9 9702-9956
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoklen&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoklen&show_icons=true)

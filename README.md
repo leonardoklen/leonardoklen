@@ -1,13 +1,13 @@
-### Eai, tudo bem? Seja muito bem-vindo(a) 👋
+### Hey, how are you? You are very welcome 👋
 
 <!--
 **leonardoklen/leonardoklen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Me chamo Leonardo e sou um iniciante curioso no mundo da programação 😅
+My name is Leonardo and I'm a curious beginner in the programming world 😅
 
-- 🔭 Atualmente trabalho com front-end e back-end de aplicações web
-- 🌱 Estou me aprofundando em JavaScript, PHP e tecnologias vinculadas a essas linguagens
-- 📫 Fale comigo através do endereço eletrônico leoklen203@gmail.com ou pelo telefone / whatsapp (44) 9 9702-9956
+- 🔭 Currently working with front-end and back-end of web applications
+- 🌱 I'm delving into JavaScript, PHP and technologies linked to these languages
+- 📫 Talk to me at leoklen203@gmail.com or by phone / whatsapp (44) 9 9702-9956
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoklen&show_icons=true&count_private=true)
